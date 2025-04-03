@@ -36,30 +36,27 @@ Este documento aborda os principais conceitos relacionados à computação em nu
 ## 📖 Conteúdo
 
 ## 1️⃣ Computação em Nuvem: Alta disponibilidade
--Diferentes servicos podem variar em termos de disponibilidade, mas todos eles oferecem um tempo altissimo de disponibilidade esperada.
+- Diferentes servicos podem variar em termos de disponibilidade, mas todos eles oferecem um tempo altissimo de disponibilidade esperada.
 
 # Armazenamento com Redundância
 
-##📦 Opções de Armazenamento
+## 📦 Opções de Armazenamento
 
-##1️⃣ LRS (Armazenamento com Redundância Local)
+## 1️⃣ LRS (Armazenamento com Redundância Local)
+- 💰 Custo mais baixo
+- 🔄 Proteção contra falhas de drive e rack do servidor
+- ✅ Recomendado para cenários não críticos
 
--💰 Custo mais baixo
--🔄 Proteção contra falhas de drive e rack do servidor
--✅ Recomendado para cenários não críticos
+## 2️⃣ GRS (Armazenamento com Redundância Geográfica)
+- 🌍 Failover em uma região secundária
+- 🔄 Proteção intermediária
+- ✅ Recomendado para cenários de backup
 
-##2️⃣ GRS (Armazenamento com Redundância Geográfica)
-
--🌍 Failover em uma região secundária
--🔄 Proteção intermediária
--✅ Recomendado para cenários de backup
-
-##3️⃣ ZRS (Armazenamento com Redundância de Zona)
-
--🏢 Proteção contra falhas no nível do datacenter
--⚡ Alta disponibilidade
--✅ Recomendado para cenários que exigem continuidade de serviço
--4️⃣ GZRS (Armazenamento com Redundância de Zona Geográfica)
--🔐 Solução ideal para proteção de dados
--🌎 Combina redundância de zona e geográfica
--✅ Recomendado para cenários de dados críticos
+## 3️⃣ ZRS (Armazenamento com Redundância de Zona)
+- 🏢 Proteção contra falhas no nível do datacenter
+- ⚡ Alta disponibilidade
+- ✅ Recomendado para cenários que exigem continuidade de serviço
+## 4️⃣ GZRS (Armazenamento com Redundância de Zona Geográfica)
+- 🔐 Solução ideal para proteção de dados
+- 🌎 Combina redundância de zona e geográfica
+- ✅ Recomendado para cenários de dados críticos
