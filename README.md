@@ -60,3 +60,39 @@ Este documento aborda os principais conceitos relacionados à computação em nu
 - 🔐 Solução ideal para proteção de dados
 - 🌎 Combina redundância de zona e geográfica
 - ✅ Recomendado para cenários de dados críticos
+
+
+# Tipos de Serviço de Nuvem na Azure  
+
+## IaaS, PaaS e SaaS na Azure  
+
+Os três principais modelos de serviço em nuvem são:  
+
+### 🚀 IaaS (Infrastructure as a Service)  
+Fornece infraestrutura virtualizada, como servidores, redes e armazenamento. O usuário é responsável por gerenciar o sistema operacional e os aplicativos.  
+
+🔹 **Exemplo**: Azure Virtual Machines  
+
+### 🛠️ PaaS (Platform as a Service)  
+Oferece uma plataforma pronta para desenvolvimento, eliminando a necessidade de gerenciar a infraestrutura subjacente.  
+
+🔹 **Exemplo**: Azure App Services  
+
+### ☁️ SaaS (Software as a Service)  
+Aplicações prontas para uso, acessadas diretamente pela internet, sem necessidade de instalação ou manutenção.  
+
+🔹 **Exemplo**: Microsoft 365  
+
+---  
+
+## Modelo de Responsabilidade Compartilhada  
+
+O modelo de responsabilidade compartilhada define o que é gerenciado pela **Azure** e o que fica sob responsabilidade do **usuário**:  
+
+- **IaaS** → O usuário gerencia o sistema operacional, aplicativos e segurança dos dados.  
+- **PaaS** → A Azure gerencia a infraestrutura e parte da segurança, enquanto o usuário cuida dos dados e aplicações.  
+- **SaaS** → A Azure gerencia quase tudo, e o usuário se preocupa apenas com a proteção dos dados e a configuração de acesso.  
+
+📌 **Resumo**: Quanto mais alto na escala (de IaaS para SaaS), menor a responsabilidade do usuário sobre a infraestrutura.  
+
+
