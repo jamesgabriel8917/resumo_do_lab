@@ -138,3 +138,48 @@ Os Grupos de Gerenciamento facilitam o controle de múltiplas assinaturas dentro
 
 ---  
 
+# Computação e Rede no Azure  
+
+## 🖥️ Serviços de Computação e Máquinas Virtuais do Azure  
+A **Azure** oferece diversos serviços de computação na nuvem para diferentes necessidades:  
+- **Máquinas Virtuais (VMs)**: Servidores escaláveis para rodar sistemas operacionais e aplicativos.  
+- **Escalabilidade**: As VMs podem ser redimensionadas automaticamente para atender à demanda.  
+- **Modelos de Implantação**: Incluem VMs individuais, Conjuntos de Disponibilidade e Scale Sets.  
+
+---  
+
+## 🏗️ Conjuntos de Disponibilidade de Máquinas Virtuais do Azure  
+Os **Availability Sets** garantem alta disponibilidade e redundância para máquinas virtuais na **Azure**. Benefícios incluem:  
+✅ Proteção contra falhas de hardware em um único data center.  
+✅ Distribuição das VMs entre **Domínios de Falha** e **Domínios de Atualização**.  
+✅ Aumento do SLA de disponibilidade para **99,95%**.  
+
+---  
+
+## 📦 Área de Trabalho Virtual e Contêineres do Azure  
+### 🖥️ **Azure Virtual Desktop (AVD)**  
+O **Azure Virtual Desktop** permite criar ambientes de trabalho virtualizados, acessíveis de qualquer lugar.  
+✅ Flexibilidade para rodar Windows em qualquer dispositivo.  
+✅ Segurança avançada com gerenciamento centralizado.  
+
+### 🐳 **Contêineres no Azure**  
+Os contêineres permitem a implantação rápida de aplicações de forma isolada e eficiente. Principais serviços:  
+- **Azure Kubernetes Service (AKS)**: Gerenciamento de contêineres em escala.  
+- **Azure Container Instances (ACI)**: Execução rápida de contêineres sem necessidade de gerenciar servidores.  
+
+---  
+
+## ⚡ Azure Functions e Serviços de Aplicativo do Azure  
+### 🔥 **Azure Functions**  
+Permite a execução de código sem gerenciar infraestrutura (**Serverless**).  
+✅ Escalabilidade automática.  
+✅ Cobrança apenas pelo tempo de execução.  
+
+### 🌐 **Azure App Services**  
+Facilita a hospedagem de aplicações web e APIs.  
+✅ Suporte para várias linguagens (Java, .NET, Node.js, Python).  
+✅ Integração com banco de dados e serviços da Azure.  
+
+---  
+
+
