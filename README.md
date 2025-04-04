@@ -182,4 +182,53 @@ Facilita a hospedagem de aplicações web e APIs.
 
 ---  
 
+# 🔐 Identidade, Acesso e Segurança no Azure  
 
+## 🛡️ Identidade, Acesso e Segurança  
+O controle de identidade e acesso é essencial para garantir a segurança dos serviços na nuvem. No Azure, a segurança se baseia nos princípios de:  
+- **Confidencialidade**: Proteção contra acessos não autorizados.  
+- **Integridade**: Garantia de que os dados não sejam alterados indevidamente.  
+- **Disponibilidade**: Garantia de acesso contínuo e seguro aos serviços.  
+
+---  
+
+## 🔑 Microsoft Entra ID e Domain Services  
+### 📌 **Microsoft Entra ID (Azure AD)**  
+O **Microsoft Entra ID** (antigo Azure AD) é a solução de gerenciamento de identidade do Azure. Permite:  
+✅ Autenticação única (**SSO**) para acesso seguro a aplicativos.  
+✅ Gerenciamento centralizado de usuários e grupos.  
+✅ Integração com aplicações **SaaS** e diretórios locais.  
+
+### 📂 **Azure AD Domain Services**  
+Fornece serviços de domínio gerenciados, como:  
+✅ Autenticação LDAP e NTLM/Kerberos.  
+✅ Suporte para aplicações legadas sem necessidade de controladores de domínio locais.  
+
+---  
+
+## 🔑 Autenticação e Autorização  
+### 🔐 **Autenticação**  
+Processo de verificação de identidade do usuário, garantindo que ele seja quem diz ser. Métodos comuns incluem:  
+- **Senha**: A forma tradicional, mas menos segura.  
+- **Autenticação Multifator (MFA)**: Uso de mais de um fator (como senha + código SMS).  
+- **Biometria**: Impressão digital, reconhecimento facial, etc.  
+
+### 🎟️ **Autorização**  
+Após a autenticação, a **autorização** define o que o usuário pode acessar. No Azure, isso é gerenciado por:  
+✅ **RBAC (Role-Based Access Control)**: Controle baseado em funções.  
+✅ **Políticas de acesso condicional** para restringir acessos com base em regras específicas.  
+
+---  
+
+## 🚦 Acesso Condicional  
+O **Acesso Condicional** permite aplicar regras avançadas para proteger identidades e dados. Exemplos de políticas:  
+- Exigir **MFA** para acessos fora da empresa.  
+- Bloquear logins de dispositivos não gerenciados.  
+- Aplicar restrições com base no **local geográfico**.  
+
+---  
+
+## 📌 Identidade, Acesso e Segurança - Revisão  
+Esta seção revisa os principais conceitos abordados, garantindo a compreensão da segurança no Azure.  
+
+---  
