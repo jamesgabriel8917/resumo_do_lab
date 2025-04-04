@@ -96,3 +96,45 @@ O modelo de responsabilidade compartilhada define o que é gerenciado pela **Azu
 📌 **Resumo**: Quanto mais alto na escala (de IaaS para SaaS), menor a responsabilidade do usuário sobre a infraestrutura.  
 
 
+# Componentes de Arquitetura do Azure  
+
+## 🔹 Componentes de Arquitetura do Azure  
+A Microsoft Azure é composta por diversos serviços e componentes essenciais para a construção e gestão de aplicações na nuvem. Alguns dos principais são:  
+
+- **Máquinas Virtuais (VMs)**: Servidores escaláveis na nuvem.  
+- **Storage**: Serviços de armazenamento para dados estruturados e não estruturados.  
+- **Redes Virtuais (VNet)**: Permite conectar recursos dentro da Azure de forma segura.  
+- **Azure Kubernetes Service (AKS)**: Gerenciamento de contêineres na Azure.  
+- **Azure Functions**: Execução de código sem necessidade de servidores (Serverless).  
+
+---  
+
+## 🌍 Entendendo Pares de Região e Grupos de Recursos  
+
+### 📍 **Pares de Região**  
+A Azure organiza suas regiões em **pares**, garantindo alta disponibilidade e recuperação de desastres. Benefícios incluem:  
+✅ Redundância geográfica para segurança dos dados.  
+✅ Atualizações controladas para minimizar impactos.  
+✅ Recuperação rápida em caso de falhas.  
+
+### 🗂️ **Grupos de Recursos**  
+Os **Resource Groups** organizam e gerenciam recursos dentro da Azure. Características principais:  
+✅ Permitem aplicar permissões e políticas em vários recursos ao mesmo tempo.  
+✅ Facilitam o gerenciamento e a organização dos serviços na nuvem.  
+✅ Possibilitam a exclusão em massa de recursos relacionados.  
+
+---  
+
+## 🏢 Assinatura da Azure e Grupos de Gerenciamento  
+
+### 🔑 **Assinatura da Azure**  
+A assinatura da Azure define o nível de acesso e faturamento de um ambiente. Cada assinatura está associada a um **tenant do Azure Active Directory (AAD)**.  
+
+### 📂 **Grupos de Gerenciamento**  
+Os Grupos de Gerenciamento facilitam o controle de múltiplas assinaturas dentro de uma organização. Benefícios:  
+✅ Aplicação de políticas e controle de acesso centralizado.  
+✅ Organização hierárquica para grandes infraestruturas.  
+✅ Simplificação do gerenciamento de segurança e compliance.  
+
+---  
+
