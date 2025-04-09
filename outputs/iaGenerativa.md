@@ -45,3 +45,28 @@ Esta conta fictícia pode ser usada para:
 - Simulações em **educação financeira**
 - Dashboards de **gastos e consumo de energia**
 
+
+
+## Imagem 2
+
+# 🌴 Cena de Praia Tropical
+
+![Cadeiras de praia e guarda-sol](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-premium%2Fcadeiras-de-praia-e-guarda-sol-na-areia-de-um-parque-de-praia-tropical_16190590.htm&psig=AOvVaw0lJvuUir2toFm6RjW99PIn&ust=1744245994103000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCfwencyYwDFQAAAAAdAAAAABAE)
+
+## Descrição do Ambiente
+
+A imagem retrata uma bela e serena **praia tropical**, perfeita para descanso e lazer. O céu está completamente **azul e limpo**, sem nuvens, sugerindo um típico dia ensolarado.
+
+No centro, duas **espreguiçadeiras brancas** estão posicionadas sob um **guarda-sol rústico feito de palha**, proporcionando sombra e conforto. Entre elas, uma **mesinha de madeira** complementa o espaço, ideal para apoiar bebidas ou livros.
+
+À direita da imagem, **palmeiras altas** balançam suavemente com a brisa, reforçando o clima tropical. Ao fundo, estruturas que lembram **quadras de vôlei ou áreas de lazer** indicam que a praia também é equipada para atividades recreativas.
+
+## Sensação Transmitida
+
+A composição evoca sentimentos de:
+- ☀️ Tranquilidade
+- 🌊 Contato com a natureza
+- 🏖️ Relaxamento à beira-mar
+- 🌴 Escapismo ideal para férias
+
+> Uma paisagem inspiradora para quem busca momentos de descanso longe da rotina.
